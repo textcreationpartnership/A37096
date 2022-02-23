@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutch Nebuchadnezzar, or, A Strange dream of the States-General with the interpretation thereof : and a famous prophecy of Mr. Powel, writ in the first year of the reign of Queen Elizabeth of ever blessed memory, fore telling the great warrs betwixt England, France, and Holland, this present year, 1666 : and the displaying of the English ensigns upon the French coast, with a great battel to be fought on the tenth day of June next, wherein the English shall become victorious, and twelve French lords, and many thousands of their men to be killed in this engagement.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37096</idno>
+            <idno type="STC">Wing D2903</idno>
+            <idno type="STC">ESTC R41102</idno>
+            <idno type="EEBO-CITATION">19619673</idno>
+            <idno type="OCLC">ocm 19619673</idno>
+            <idno type="VID">109218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutch Nebuchadnezzar, or, A Strange dream of the States-General with the interpretation thereof : and a famous prophecy of Mr. Powel, writ in the first year of the reign of Queen Elizabeth of ever blessed memory, fore telling the great warrs betwixt England, France, and Holland, this present year, 1666 : and the displaying of the English ensigns upon the French coast, with a great battel to be fought on the tenth day of June next, wherein the English shall become victorious, and twelve French lords, and many thousands of their men to be killed in this engagement.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Roberts,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Powel, Jeremiah --  Prophecies.</term>
+               <term>Europe --  History --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109218:1" rendition="simple:additions"/>
+            <p>The DUTCH Nebuchadnezzar; Or, A Strange DREAM OF THE States-General: With the Interpretation thereof,</p>
+            <p>And a famous Prophecy of Mr. Powel, Writ in the firſt Year of the Reign of Queen ELIZABETH of ever bleſſed Memory; Fore relling the great Warrs betwixt <hi>England, France,</hi> and <hi>Holland,</hi> this preſent <hi>Year,</hi> 1666. And the diſplaying of the Engliſh Enſigns upon the French Coaſt; with a great Battel to be fought on the Tenth Day of <hi>June</hi> next, wherein the Engliſh ſhall become Victorio<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and twelve French Lords, and many thouſands of their men to be killed in this Engagem<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt.</p>
+            <p>Printed for <hi>George Roberts.</hi> in the Year, 1666.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:109218:2"/>
+               <pb n="1" facs="tcp:109218:2"/>
+               <head>The Dutch Nebuchadnezzar.</head>
+               <p>I <hi>Nebuchadnezzar,</hi> was at reſt in my Houſe, and flou<g ref="char:EOLhyphen"/>riſhing in my Palace, I ſaw a Dream which did very much affright me, and the Viſions of my Head troubled me; I ſaw a Star of an extraordina<g ref="char:EOLhyphen"/>ry Magnitude coming forth out of the Southern Meridian, which appeared firſt in the Conſtellation of VIRGO, and there continued ſome time; its Face was as that of the Flaming Fire in the Burning Buſh, which belched forth its angry Rays in great Furie, as far as the Tail of the DRAGON, above Thirty One Degrees, which contains many Thouſand miles; it was incompaſſed with many ſmaller Stars, having its Beams ſometimes divided, ſometimes obſcured by dark and gloomy Clouds, its Influence ſeemed to be upon Me and Our Provinces, which, as it was horrible, and diſmal in it ſelf, ſo was it rendred much more ominous by theſe ſad and dread<g ref="char:EOLhyphen"/>ful Clouds which alwayes incompaſſed it. After this there appeared another Star of a far more plea<g ref="char:EOLhyphen"/>ſant and delightful Countenance; but this diſdain<g ref="char:EOLhyphen"/>fully turning its Face from Me, caſt its more benigne Rays towards the Eaſt. This is the Viſion which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>De-wit, Hollands Nebuchadnezzar,</hi> ſaw in the laſt Moneth of the Year, 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:109218:3"/>
+               <head>
+                  <hi>The</hi> Engliſh Daniel's <hi>Interpreration.</hi>
+               </head>
+               <p>THE Dream be to them that hate Thee, and the Interpretation thereof to Thine Enemies, <hi>High and Mighty Provinces,</hi> Thou wert at reſt in thy Houſe, and flouriſhing in thy Palace: The Star appeared firſt in the Conſtellation of <hi>Virgo,</hi> becauſe the Heavens hither<g ref="char:EOLhyphen"/>to have been propitious to Thee, and favourably ſmiled upon all thy Undertakings: But now becauſe thou haſt been as a wanton <hi>Heffer</hi> ſwerving from the way of the Lord, and becauſe thy Pride hath aſcended up to Hea<g ref="char:EOLhyphen"/>ven it ſelf, deſigning to e like the <hi>Most Higheſt,</hi> Thou alone intrenching upon <hi>Divine Omnipotency,</hi> in that <hi>baughty Title,</hi> (which other Princes bluſh to aſſume) <hi>High and Mighty.</hi> Therefore know, thy Impietie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now at the height, and the Face of that Star which Thou ſaweſt as the Flames of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire which came from the Burn<g ref="char:EOLhyphen"/>ing Buſh, <hi>(for the Anger of the Lord is kindled againſt thee)</hi> ſhall humble and cruſh Thee in pieces; That thou ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt know that the moſt High ruleth over all the arth, whoſe Laws and Precepts Thou haſt ſo contumaciouſly deſpiſed Moreover, that Thou ſaweſt the Rays of that Star extend themſelves to the utmoſt of Thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ominions, Thou haſt well ſoon; for the Lord ſhall ſhow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down his Vengeance up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Thee, by the Force of all the Princes of the Univerſe, whom Thou haſt too often provoked; They ſhall put a Ring in thy Noſtrils, bring Thee back by the way the which thou cameſt; their ſtrength ſhall be Lord over thee.</p>
+               <p>The <hi>Engliſh Croſs</hi> ſhall fall upon thee, becauſe thou wert a Preſident for the ſhedding of that Royal Blood, which
+<pb n="3" facs="tcp:109218:3"/> to this day calls to Heaven for Vengeance and afterwards refuſed to protect his innocent Off-Spring, when flying from the Cruelty of an Uſurping Sword, thou banishedſt out of thy Territories.</p>
+               <p>The <hi>Heſperian Lyon,</hi> viz. <hi>the Spaniard,</hi> ſhall alſo whet his Teeth upon Thee and once more repoſſeſs himſelf of that Right and Dominion, which by the <hi>Sword of Rebellion</hi> Thou haſt ſo long detained from him; <hi>God ſhall put the Yoak of Bondage upon thy Neck, and make void that Treaty of Peace, which neither thy worth nor Gratitude, can longer m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rit.</hi>
+               </p>
+               <p>Thoſe <hi>Li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ies</hi> which ſo long have been both pleaſant and profitable to Thee, shall now wax pale and wither before thine Eyes; they have had too long Experience of thy Fraud and Arrogance, and now ſhall prove <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rus</hi> in thy ſide, that all men may cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p their hands and hiſs at Thee, ſaying, <hi>Where are thy Gods and Naval Foroes in whom thou didſt put thy trust.</hi>
+               </p>
+               <p>The <hi>German Ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le</hi> ſhall gripe Thee in his Talons, and take thee for his prey dividing thy whole Dominious to his Princes and Allies, becauſe thou haſt contemned His Majeſty, divided his ſtrength, and unjuſtly refuſedſt to reſtore what was violently taken from Him. Remember how ready Thou haſt been to aſſiſt the <hi>Aſſyrians,</hi> all thoſe that have oppoſed Him; how didſt thou help the <hi>Baza<g ref="char:EOLhyphen"/>rian,</hi> incite the <hi>Saxon,</hi> and force Count <hi>Manifield</hi> into thy Service. <hi>In fine,</hi> Thy power and riches have been al<g ref="char:EOLhyphen"/>ways ready to encourage and aſſiſt His greateſt Enemies,</p>
+               <p>The <hi>Northern Kings</hi> will not be more propitious to Thee, for that Thou haſt always ſown <hi>Seeds of Diſcord</hi> amongſt them, and by thy wicked Policies and Con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>vances,
+<pb n="4" facs="tcp:109218:4"/> haſt been the cauſe that ſo much innocent blood hath been ſhed on eithe ſide.</p>
+               <p>The Duke of <hi>Brandenburgh</hi> with his <hi>Fellow-Electors,</hi> shall ſit heavy upon Thee, and take this occaſion to revenge themſelves upon that Fraud and Hypocriſie, that Pride and Covetouſneſs which now ſhall be laid open to all the World. The Biſhop of <hi>Colen,</hi> and Duke of <hi>Bavaria,</hi> will now make bold not onely to recover their own, but di<g ref="char:EOLhyphen"/>veſt thee of all thoſe borrowed Plumes, which Thou by Force and Injuſtice haſt taken from others.</p>
+               <p>The <hi>West phalian Courſer</hi> shall praunce over thy Fields, and feed in thy Paſtures, becauſe thou didſt incite his Subjects againſt their Liege Lord, and counſelled them to tread in thoſe ſteps of <hi>Treaſon</hi> and <hi>Rebellion,</hi> wherein Thou haſt gone before: And not regarding his Function, which is a Biſhop annointed with Holy Oil, and conſecrated unto the Lord, thy Malevolent Tongue hath aſperſed His Per<g ref="char:EOLhyphen"/>ſon with opprobrious Names, and inhumane Calumnies, and ſuch like Provocations, for which thou muſt expect to be called to an account, but moſt of all for lifting up thy Hand againſt Him, and thirſting after His Innocent Blood. And as thou didſt ſee the Rays of the Star divi<g ref="char:EOLhyphen"/>ded by divers thick and dark Clouds, behold, ſo ſhall thy Dominions be divided, and given to thy Enemies; and becauſe thou truſtedſt in thy Sword, and in thy Armour, in the ſtrength of thine own Hands, and in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bundance of thy Riches; <hi>therefore behold, thy Territories ſhall be de<g ref="char:EOLhyphen"/>ſtroyed and brought to nothing; and as thou art become a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear<g ref="char:EOLhyphen"/>ing Lion, and has learnt to take thy Prey as a devonring Wolf, ſo ſhalt thou become a Prey to others.</hi>
+               </p>
+               <p>Remember what Evils thou haſt brought upon <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> the Church of God, by making <hi>Religion</hi> it ſelf a
+<pb n="5" facs="tcp:109218:4"/> groſs piece of Hypocriſie, all thy Devotion being as a to Maſque conceal the Phariſaiſme of thy Heart thy Am<g ref="char:EOLhyphen"/>bition, Covetouſneſs, or ſome ſuch impious Deſign; and the Charity of other People, intended to Holy Purpo<g ref="char:EOLhyphen"/>ſes, have been by thee t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ansfer<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d to Worldly and Sacri<g ref="char:EOLhyphen"/>legie us Uſes.</p>
+               <p>And as Thou didſt ſee the Star <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> dark and gloomy Cloud, behold, <hi>Tho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> made others to lament, and Lamentation ſhall be thy end thou ſhalt mourn, none ſhall pity thee.</hi>
+               </p>
+               <p>And as Thou didſt ſee another Star more beautiful and higher then the former, which turned her Face and Rays from Thee towards the <hi>Eaſt;</hi> behold, the Lord ſhall for<g ref="char:EOLhyphen"/>ſake thee, and turn away the Face of his Countenance, and make thy Enemies to rejoyce over thee, becauſe in the pride of thy Heart thou haſt ſaid, <hi>I am comely, and prideſt thy ſelf in the beauty of thy Palaces, and in the abun<g ref="char:EOLhyphen"/>dance of thy wealth, and there is no end of thy Arrogance; herefore the Beauty of thy Countenance ſhall fail, and the Lord ſhall curſe the comelineſs of thy Face; thy Dominions ſhall be laid waſt before thine Eyes, and another ſhall take poſ<g ref="char:EOLhyphen"/>ſeſsion thereof; therefore thou ſhalt be left deſolate, as a Shade in the Vineyard, and as a Tyle upon the Houſe-Top, and as a City which is laid waſe.</hi>
+               </p>
+            </div>
+            <div type="prophecy">
+               <q>All theſe Evils ſhall come upon Thee O proud <hi>Hol<g ref="char:EOLhyphen"/>land</hi> becauſe thus ſaith the Lord, <hi>I have begun, and I will perſect any Work.</hi>
+               </q>
+               <pb n="6" facs="tcp:109218:5"/>
+               <p>A famous Prophecy, touching the downfal of <hi>Great Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ttain's</hi> Enemies, having ſome Coherence with the precedent Interpretation, I ſhall here recire <hi>conſidering the great Concern it hath in theſe times, and the memorable effect's and inſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ences impend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ug on this cars Revolution, As firſt, a great Overthrow to be given o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>be</hi> French, <hi>about the tenth of</hi> June <hi>next, and three great Battel, to be fou h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be<g ref="char:EOLhyphen"/>fore</hi> Chriſtmas <hi>betuixt the</hi> French <hi>and</hi> Engliſh: <hi>Together with a great Overthrow to the</hi> Dutch, <hi>Prophetic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lly foretold by</hi> Jeremiah Powel <hi>in the Reign of Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een</hi> Elizabeth, <hi>and now preſented to publike view, according to the Original, in theſe words following.</hi>
+               </p>
+               <lg>
+                  <l>WHen <hi>One</hi> and three times <hi>Six</hi> do meet,</l>
+                  <l>
+                     <hi>To</hi> reckon for the Year;</l>
+                  <l>
+                     <hi>The</hi> Bloody <hi>Engliſh</hi> Colours ſhall</l>
+                  <l>On the <hi>French</hi> Coaſt appear.</l>
+                  <l>When <hi>Sol</hi> in <hi>Cancer</hi> enters firſt, <note place="margin">June 10.</note>
+                  </l>
+                  <l>On that ſame very Day,</l>
+                  <l>The <hi>Enſigns</hi> of theſe mighty Foes</l>
+                  <l>Shall in the Field diſplay.</l>
+                  <l>Twelve Noble Lords that day ſhall fall.</l>
+                  <l>With thouſands by their <hi>ſide;</hi>
+                  </l>
+                  <l>And then the <hi>Fates</hi> end and begin</l>
+                  <l>
+                     <hi>Th</hi> French <hi>and</hi> Engliſh <hi>Pride.</hi>
+                  </l>
+                  <l>
+                     <hi>Three</hi> Battels more ei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Chriſtmas Eve,</hi>
+                  </l>
+                  <l>
+                     <hi>The Lillies</hi> fight and loſe:</l>
+                  <l>
+                     <hi>Then</hi> Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce enſues, and puts an End</l>
+                  <l>Unto the Subjects Woes.</l>
+                  <l>
+                     <hi>Then High</hi> and <hi>Mighty</hi> look about,</l>
+                  <l>Your Wooden and Stone-Wall</l>
+                  <l>Shall not defend you; But ſhall then</l>
+                  <l>Begin to <hi>ſink and fall.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
